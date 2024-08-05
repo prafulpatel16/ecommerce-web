@@ -47,3 +47,4 @@ ehthumbs.db
 
 # dotenv environment variables file
 .env
+!ecommerce-frontend/
